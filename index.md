@@ -57,7 +57,7 @@ Being aware of that, do marketing teams use green , which connotes eco-friendlin
 
 By analzing and comparing the density of the nutrition score for products with green as a main color of their packagings and those with other colors, we conclude that there is no clear difference between them, which means that the color green is not necessarily misused in marketing strategies to outsmart the consumers ( Who says that we are living in a bad world ? ).  
 
-{% include figure.html image="assets/images/green"  width="600" height="800" %}
+{% include figure.html image="assets/images/green.png"  width="600" height="800" %}
 
 But still,  beware when buying your products, because green is not always synonymous with healthy ! 
 
