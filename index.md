@@ -38,12 +38,29 @@ According to AdAge (weekly magazine that covers all aspects of the US advertisin
 
 #### Packaging of food products:
 
-The choice of colors of the packaging, as explained above, is very important to simulate the desired impact on the consumer. It is then very interesting to quantify the use of color in the food industry, and discover what colors are employed to gain customer's attention and increase their appetite. 
+The choice of colors of the packaging, as explained above, is very important to simulate the desired impact on the consumer. So in food industry, what colors are employed to gain customer's attention and increase their appetite ? 
 
 {% include figure.html image="assets/images/colors.png" width="700" height="900" %}
 
-From the figure 1 above, 3 colors are undoubtly dominant on the products packagings: red, orange and yellow. 
+From the figure 1 above, 4 colors are undoubtly dominant on the products packagings: red, orange, yellow and cyan-blue. 
 But how can we explain this trend ? 
-[TO BE CONTINUED XoXo ]
 
+The article [Impact of color on marketing](https://www.emeraldinsight.com/doi/abs/10.1108/00251740610673332) explains that the colors of the packaging differentiate the product of other competitors by influencing the mood and the feelings of the consumer.  The four colors that are the most used in food industry ( red, yellow, orange and cyan-blue ) are known for their strong impact on the customer's attention and appetite: 
+
+* Red and yellow are the chief food colors, evoking the tastebuds and stimulating the appetite. Both colors are also effective at grabbing attention. The fast food industry(Think of Macdonald's packagings) has claimed this combination for a good reason—because it is effective. 
+* Orange, a blend of red and yellow, naturally lends itself to food as another appetizing color.
+* Cyan-blue connotes pops of flavor, and thus it is widely used for sweets and desserts.
+
+#### Does green mean helathy ?
+Health and wellness trends in food and drink products have increasingly gathered momentum in the past couple of years as consumers turn to less processed and more natural alternatives to their usual products.
+Being aware of that, do marketing teams use green , which connotes eco-friendliness and healthy, on packagings to make nutrition-poor foods look in a healthier light ?  
+
+By analzing and comparing the density of the nutrition score for products with green as a main color of their packagings and those with other colors, we conclude that there is no clear difference between them, which means that the color green is not necessarily misused in marketing strategies to outsmart the consumers ( Who says that we are living in a bad world ? ).  
+
+{% include figure.html image="assets/images/unhealthy.jpg"  width="600" height="800" %}
+
+But still,  beware when buying your products, because green is not always synonymous with healthy ! 
+
+{% include figure.html image="assets/images/unhealthy.jpg" caption= "2188 Kj / 100g & E Nutri-score" position="right" width="400" height="500" %}
+{% include figure.html image="assets/images/chorizo.jpg"  caption= "1900 Kj / 100g & E Nutri-score"   position="left" width="150" height="150" %}
 
